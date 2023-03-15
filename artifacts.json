@@ -1,7 +1,7 @@
 {
     "this-repository": "https://github.com/DSC-Capstone/artifact-directory-template.git",
-    "project-repository": "https://github.com/DSC-Capstone/project-templates.git",
-    "dockerhub-repository": "amfraenkel/fair-policing-project:latest",
-    "project-website-url": "https://afraenkel.github.io/capstone-malware-domain/",
-    "project-website-code": "https://github.com/afraenkel/capstone-malware-domain.git"
+    "project-repository": "https://github.com/acanonig/DSC180B-Proxensus-",
+    "dockerhub-repository": "sucsdets/datahub-base-notebook",
+    "project-website-url": "https://aryamansinha2704.github.io/Public_Facing_Website/",
+    "project-website-code": "https://github.com/Aryamansinha2704/Public_Facing_Website"
 }
